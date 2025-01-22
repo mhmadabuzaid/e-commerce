@@ -1,20 +1,36 @@
-<<<<<<< HEAD
-# e_commerse
+# E-Commerce App 🛍️
 
-A new Flutter project.
+An intuitive and modern e-commerce application built with **Flutter**. This app leverages **Provider** for state management, **Hero Animations** for smooth transitions, and **setState** for simpler UI updates.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Product Catalog**: Browse a list of products with detailed information.
+- **Hero Animations**: Smooth and visually appealing transitions between screens.
+- **State Management**: Efficient app-wide state handling using Provider.
+- **Shopping Cart**: Add, remove, and update items in the cart.
+- **Favorites**: Save products to your favorite list for quick access.
+- **Profile Page**: A fixed profile page (no user management or authentication).
+- **Responsive Design**: Optimized for both mobile and tablet screens.
+- **Search and Filter**: Quickly find products based on categories or keywords.
+- **Product Details**: View detailed information about products.
+- **Checkout Flow**: Simulate the checkout process for a complete shopping experience.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# e-commerce
->>>>>>> f6efb8c162e09ca66b12941bc6df6f44ddfafb73
+- **Flutter**: Cross-platform mobile app development.
+- **Provider**: State management solution.
+- **Hero Animations**: Native Flutter animations for smooth screen transitions.
+- **setState**: Local UI state management for simpler interactions.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project on your local machine:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/mhmadabuzaid/e-commerce.git
+   cd e-commerce
