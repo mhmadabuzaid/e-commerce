@@ -9,7 +9,6 @@ An intuitive and modern e-commerce application built with **Flutter**. This app 
 - **State Management**: Efficient app-wide state handling using Provider.
 - **Shopping Cart**: Add, remove, and update items in the cart.
 - **Favorites**: Save products to your favorite list for quick access.
-- **Profile Page**: A fixed profile page (no user management or authentication).
 - **Responsive Design**: Optimized for both mobile and tablet screens.
 - **Search and Filter**: Quickly find products based on categories or keywords.
 - **Product Details**: View detailed information about products.
@@ -34,3 +33,4 @@ Follow these steps to run the project on your local machine:
    ```bash
    git clone https://github.com/mhmadabuzaid/e-commerce.git
    cd e-commerce
+   flutter run
